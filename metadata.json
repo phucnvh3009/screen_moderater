@@ -1,0 +1,6 @@
+{
+  "name": "EventHub Moderator Portal",
+  "description": "A premium administrator and moderator portal for EventHub including dashboard statistics, organizer verification approvals, event management reviews, and venue operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
